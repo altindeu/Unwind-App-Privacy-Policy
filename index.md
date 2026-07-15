@@ -18,4 +18,4 @@ You can read the Unwind Privacy Policy here:
 [Privacy Policy](./Privacy_README.md)
 
 You can check the Terms and Conditions here:
-[Terms and Conditions](./TERMS)
+[Terms and Conditions](./TERMS.md)
